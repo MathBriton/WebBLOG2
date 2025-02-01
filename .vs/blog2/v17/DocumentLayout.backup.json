@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Temp\\WebAPI2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E3DF16A-8032-4443-8719-11751D551AB2}|Web2\\Web2.csproj|c:\\temp\\webapi2\\web2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3DF16A-8032-4443-8719-11751D551AB2}|Web2\\Web2.csproj|solutionrelative:web2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DF16A-8032-4443-8719-11751D551AB2}|Web2\\Web2.csproj|c:\\temp\\webapi2\\web2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3DF16A-8032-4443-8719-11751D551AB2}|Web2\\Web2.csproj|solutionrelative:web2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DF16A-8032-4443-8719-11751D551AB2}|Web2\\Web2.csproj|c:\\temp\\webapi2\\web2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3DF16A-8032-4443-8719-11751D551AB2}|Web2\\Web2.csproj|solutionrelative:web2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E3DF16A-8032-4443-8719-11751D551AB2}|Web2\\Web2.csproj|c:\\temp\\webapi2\\web2\\data\\mappings\\categorymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E3DF16A-8032-4443-8719-11751D551AB2}|Web2\\Web2.csproj|solutionrelative:web2\\data\\mappings\\categorymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,11 +66,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Temp\\WebAPI2\\Web2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:18:40.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Web2\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Temp\\WebAPI2\\Web2\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Web2\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:18:33.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Web2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Temp\\WebAPI2\\Web2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Web2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:18:26.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserMap.cs",
               "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Data\\Mappings\\UserMap.cs",
               "RelativeDocumentMoniker": "Web2\\Data\\Mappings\\UserMap.cs",
@@ -66,12 +117,11 @@
               "RelativeToolTip": "Web2\\Data\\Mappings\\UserMap.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAwwE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T01:16:14.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T01:16:14.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PostMap.cs",
               "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Data\\Mappings\\PostMap.cs",
               "RelativeDocumentMoniker": "Web2\\Data\\Mappings\\PostMap.cs",
@@ -79,12 +129,11 @@
               "RelativeToolTip": "Web2\\Data\\Mappings\\PostMap.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAwwEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T01:16:00.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T01:16:00.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CategoryMap.cs",
               "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Data\\Mappings\\CategoryMap.cs",
               "RelativeDocumentMoniker": "Web2\\Data\\Mappings\\CategoryMap.cs",
@@ -97,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "BlogDataContext.cs",
               "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Data\\BlogDataContext.cs",
               "RelativeDocumentMoniker": "Web2\\Data\\BlogDataContext.cs",
@@ -105,12 +154,11 @@
               "RelativeToolTip": "Web2\\Data\\BlogDataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T01:15:21.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T01:15:21.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Models\\User.cs",
               "RelativeDocumentMoniker": "Web2\\Models\\User.cs",
@@ -118,12 +166,11 @@
               "RelativeToolTip": "Web2\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T01:12:43.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T01:12:43.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "Web2\\Models\\Tag.cs",
@@ -135,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Web2\\Models\\Role.cs",
@@ -147,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Models\\Post.cs",
               "RelativeDocumentMoniker": "Web2\\Models\\Post.cs",
@@ -159,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Web2\\Models\\Category.cs",
@@ -171,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ApiKeyAttribute.cs",
               "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Attributes\\ApiKeyAttribute.cs",
               "RelativeDocumentMoniker": "Web2\\Attributes\\ApiKeyAttribute.cs",
@@ -183,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Web2.csproj",
               "DocumentMoniker": "C:\\Temp\\WebAPI2\\Web2\\Web2.csproj",
               "RelativeDocumentMoniker": "Web2\\Web2.csproj",
